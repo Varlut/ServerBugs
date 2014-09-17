@@ -1,7 +1,7 @@
 Server
 ======
 
-Welcome to our bucktracking setup for the Hypixel Creative server. We check this daily looking for major issues and those small bugs. We encourage users to interact with us through the bug reporting system so as to cultivate an immersive user experience with flawless interactions upon full release.
+Welcome to our bug tracking setup for the Hypixel Creative server. We check this daily looking for major issues and those small bugs. We encourage users to interact with us through the bug reporting system so as to cultivate an immersive user experience with flawless interactions upon full release.
 
 How to Use
 ==========
