@@ -11,3 +11,5 @@ To the right side of the page is a small icon that looks like an exclamation poi
 ###Examples
 - [Bug Report](https://github.com/HPBT/ServerBugs/issues/1)
 - [Suggestion](https://github.com/HPBT/ServerBugs/issues/2)
+
+Please make sure to file seperate bugs and suggestions as seperate issues, and not all under a single issue. Doing so makes it easier for us to track which bugs have been reported, and where we are in the process of fixing or implementing them.
